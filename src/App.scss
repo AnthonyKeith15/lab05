@@ -38,7 +38,8 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url("../public/images/ryo-yoshitake-rD28m9BmXVs-unsplash.jpg");
+	background-position: center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -121,7 +122,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: blue;
 	overflow: hidden;
 }
 
@@ -219,7 +220,7 @@ header h1 {
 
 #preview {
 	width: 500px;
-	background-color: #ebeaf5;
+	background-color: #3634bb;
 	padding: 15px;
 	position: relative;
 	margin-bottom: 15%;
@@ -232,7 +233,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #3634bb;
 }
 
 .experience-icon {
